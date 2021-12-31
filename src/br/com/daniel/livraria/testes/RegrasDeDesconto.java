@@ -1,4 +1,6 @@
-package principal;
+package br.com.daniel.livraria.testes;
+
+import br.com.daniel.livraria.produtos.Livro;
 
 public class RegrasDeDesconto {
 

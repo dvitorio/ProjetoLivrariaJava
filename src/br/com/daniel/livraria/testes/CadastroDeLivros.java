@@ -1,4 +1,8 @@
-package principal;
+package br.com.daniel.livraria.testes;
+
+import br.com.daniel.livraria.produtos.Ebook;
+import br.com.daniel.livraria.produtos.Livro;
+import livraria.Autor;
 
 public class CadastroDeLivros {
 

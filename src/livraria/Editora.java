@@ -1,4 +1,4 @@
-package principal;
+package livraria;
 
 public class Editora {
 

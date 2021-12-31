@@ -1,4 +1,4 @@
-package principal;
+package br.com.daniel.livraria.testes;
 
 public class CalculadoraDeEstoque {
 

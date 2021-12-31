@@ -1,4 +1,4 @@
-package principal;
+package livraria;
 
 public class Autor {
 
@@ -46,7 +46,7 @@ public class Autor {
 	}
 
 
-	void mostrarDetalhesAutor() {
+	public void mostrarDetalhesAutor() {
 		System.out.println("========================================= Informações do autor ===================================");
 		System.out.println("Nome do autor: " + getNome());
 		System.out.println("Email: " + getEmail());

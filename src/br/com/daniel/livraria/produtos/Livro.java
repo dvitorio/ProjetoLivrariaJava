@@ -1,4 +1,6 @@
-package principal;
+package br.com.daniel.livraria.produtos;
+
+import livraria.Autor;
 
 public class Livro {
 	

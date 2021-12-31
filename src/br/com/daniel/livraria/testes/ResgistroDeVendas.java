@@ -1,4 +1,9 @@
-package principal;
+package br.com.daniel.livraria.testes;
+
+import br.com.daniel.livraria.CarrinhoDeCompras;
+import br.com.daniel.livraria.produtos.Ebook;
+import br.com.daniel.livraria.produtos.LivroFisico;
+import livraria.Autor;
 
 public class ResgistroDeVendas {
 
