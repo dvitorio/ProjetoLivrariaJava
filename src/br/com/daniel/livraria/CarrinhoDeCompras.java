@@ -1,10 +1,12 @@
 package br.com.daniel.livraria;
 
 import br.com.daniel.livraria.produtos.Livro;
+import br.com.daniel.livraria.produtos.Produto;
 
 public class CarrinhoDeCompras {
 	
 	private double total;
+	private Produto[] produtos = new Produto[10];
 	
 	
 	//Getters e Setters

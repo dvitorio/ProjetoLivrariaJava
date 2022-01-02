@@ -2,7 +2,7 @@ package br.com.daniel.livraria.produtos;
 
 import livraria.Autor;
 
-public class Livro {
+public class Livro implements Produto{
 	
 	private String nome;
 	private String descricao;
